@@ -7,7 +7,7 @@ A simple arduino-based alarm timer using a 4-digit-7 segment display and an acti
 - Uses SevSeg library for 7-segment display multiplexing
 
 ## Components Used
-- Arduino Nano
+- Arduino Nano 
 - 4-Digit 7-Segment Display
 - Active Buzzer
 - Resistors
