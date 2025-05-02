@@ -24,6 +24,9 @@ The user sets a countdown time. The Arduino handles the countdown logic and upda
 2. Upload `AlarmTimer.ino` to your Arduino Nano.
 3. Start the timer!
 
+## Demo
+<img src="Timer.gif" alt="An alarm timer gif video">
+
 ## License
 MIT License
 
