@@ -26,6 +26,7 @@ The user sets a countdown time. The Arduino handles the countdown logic and upda
 
 ## Demo
 <img src="Timer.gif" alt="An alarm timer gif video">
+https://youtube.com/shorts/Wv6jlm2JZHc?feature=share
 
 ## License
 MIT License
