@@ -25,14 +25,8 @@ The user sets a countdown time. The Arduino handles the countdown logic and upda
 3. Start the timer!
 
 ## Demo
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/https://youtube.com/shorts/Wv6jlm2JZHc?feature=share" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
-
+<img src="Timer.gif" alt="An alarm timer">
+<p>click <a href="https://youtube.com/shorts/Wv6jlm2JZHc?feature=share">here</a> for sounds</p>
 
 ## License
 MIT License
