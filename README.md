@@ -31,3 +31,6 @@ The user sets a countdown time. The Arduino handles the countdown logic and upda
 ## License
 MIT License
 
+You can use this code, but make sure to make necessary changes according to your circuit setup. 
+Feel free to reach out to me if any questions or suggestions. LinkedIn profile in my bio :) 
+
